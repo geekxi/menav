@@ -83,10 +83,10 @@ categories:
         url: https://linux.do/
         icon: fas fa-play-circle
         description: 技术社区
-      # - name: 掘金
-      #   url: https://juejin.cn
-      #   icon: fas fa-book
-      #   description: 高质量技术社区
+      - name: github
+        url: https://github.com/
+        icon: fas fa-book
+        description: 代码托管平台
       # - name: LeetCode
       #   url: https://leetcode.cn
       #   icon: fas fa-code
