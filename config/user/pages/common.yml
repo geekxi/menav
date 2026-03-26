@@ -153,6 +153,10 @@ categories:
         url: https://gh-proxy.com/
         icon: fas fa-pencil-alt
         description: github 加速代理
+      - name: GitHub Proxy
+        url: https://ghproxy.link/
+        icon: fas fa-pencil-alt
+        description: github 加速代理
       - name: 微信文件助手
         url: https://filehelper.weixin.qq.com/
         icon: fas fa-pencil-alt
