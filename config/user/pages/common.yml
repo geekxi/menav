@@ -161,6 +161,10 @@ categories:
         url: https://filehelper.weixin.qq.com/
         icon: fas fa-pencil-alt
         description: 微信文件助手
+      - name: mermaid 图片转换
+        url: https://www.mermaidonline.live/zh/editor
+        icon: fas fa-pencil-alt
+        description: 图片转换
   - name: 云服务平台
     icon: fas fa-cloud
     sites:
