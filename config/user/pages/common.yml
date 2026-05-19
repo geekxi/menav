@@ -87,10 +87,10 @@ categories:
         url: https://github.com/
         icon: fas fa-book
         description: 代码托管平台
-      # - name: LeetCode
-      #   url: https://leetcode.cn
-      #   icon: fas fa-code
-      #   description: 算法刷题平台
+      - name: DockerHub
+        url: https://hub.docker.com/
+        icon: fas fa-code
+        description: Docker镜像仓库
   - name: 设计资源
     icon: fas fa-palette
     sites:
