@@ -48,10 +48,10 @@ categories:
       #   url: https://stackoverflow.com
       #   icon: fab fa-stack-overflow
       #   description: 程序员问答社区
-      # - name: ChatGPT
-      #   url: https://chat.openai.com
-      #   icon: fas fa-robot
-      #   description: AI智能助手
+      - name: ChatGPT
+        url: https://chatgpt.com/
+        icon: fas fa-robot
+        description: ChatGPT
       # - name: YouTube
       #   url: https://www.youtube.com
       #   icon: fab fa-youtube
@@ -145,11 +145,11 @@ categories:
         url: https://www.drawio.com/
         icon: fas fa-pencil-alt
         description: visio 替代
-      - name: Mineru
+      - name: MinerU
         url: https://mineru.net/OpenSourceTools/Extractor
         icon: fas fa-pencil-alt
         description: 文档和网页类容解析
-      - name: gh-proxy
+      - name: Gh-proxy
         url: https://gh-proxy.com/
         icon: fas fa-pencil-alt
         description: github 加速代理
@@ -161,7 +161,7 @@ categories:
         url: https://filehelper.weixin.qq.com/
         icon: fas fa-pencil-alt
         description: 微信文件助手
-      - name: mermaid 图片转换
+      - name: Mermaid 图片转换
         url: https://www.mermaidonline.live/zh/editor
         icon: fas fa-pencil-alt
         description: 图片转换
