@@ -165,6 +165,10 @@ categories:
         url: https://www.mermaidonline.live/zh/editor
         icon: fas fa-pencil-alt
         description: 图片转换
+      - name: PlantUML 渲染工具
+        url: https://www.jser.com/g/plantuml-editor
+        icon: fas fa-pencil-alt
+        description: PlantUML
   - name: 云服务平台
     icon: fas fa-cloud
     sites:
